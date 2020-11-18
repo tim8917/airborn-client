@@ -1,10 +1,12 @@
-# Getting Started with Create React App
+# Airborn Client
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Airborn Server
 
-In the project directory, you can run:
+Run the `airborn-server` app first from [airborn-server](https://github.com/tim8917/airborn-server).
+Just execute `npm run start` in the `airborn-server` app root folder.
+By default it starts at [http://localhost:4000/](http://localhost:4000/).
 
 ### `npm start`
 
@@ -13,6 +15,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
+___
+___
+___
 
 ### `npm test`
 
