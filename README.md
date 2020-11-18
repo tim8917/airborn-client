@@ -1,5 +1,7 @@
 # Airborn Client
 
+WebSockets client using ApolloClient and `subscriptions-transport-ws` transport. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Airborn Server
